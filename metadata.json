@@ -1,0 +1,5 @@
+{
+  "name": "Glossy IPTV Player",
+  "description": "An attractive, fast, mobile-first + desktop-responsive IPTV viewer that reads standard M3U playlists and shows channels by country and genre, with a glossy, 3D-style animated interface.",
+  "requestFramePermissions": []
+}
